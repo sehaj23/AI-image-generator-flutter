@@ -58,12 +58,16 @@ Run the app on an emulator or physical device:
 
 Explore the app and enjoy the AI-powered image generation!
 
-Contributing
+# Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request. Make sure to follow the contributing guidelines.
 
 
 
-Acknowledgments
+# Acknowledgments
 The AI model used in this app is based on Chatgpt Dalle
 Special thanks to the Flutter community for their support and contributions.
 
+
+# Screenshot
+
+![img.png](img.png)
